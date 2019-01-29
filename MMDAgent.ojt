@@ -1,0 +1,9 @@
+# number of voices
+1
+# voice names
+Voice\hts_voice_nitech_jp_atr503_m001-1.05\m001.htsvoice
+# number of speaking styles
+1
+# speaking style names, interpolation weight, and synthesis parameter
+mei_voice_normal 1.0 1.0 1.0 1.0 0.0 0.55 1.0
+
